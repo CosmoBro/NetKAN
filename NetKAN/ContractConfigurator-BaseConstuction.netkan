@@ -10,7 +10,7 @@
         "homepage": "http://forum.kerbalspaceprogram.com/threads/127138"
     },
     "depends": [
-        { "name": "ContractConfigurator", "min_version": "1.5.1" },
+        { "name": "ContractConfigurator", "min_version": "1.5.0" },
         { "name": "ModuleManager" }
     ],
     "install": [
